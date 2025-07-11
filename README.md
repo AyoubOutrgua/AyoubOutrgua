@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Ayoub OUTRGUA from Agadir, Morocco<br><br>- 🔭 I’m working as Front-End Developer.<br>- 📚 I'm currently learning Meta Front-End Developer Course from Coursera.</p>
+<p align="left">I'm Ayoub OUTRGUA from Agadir, Morocco<br><br>- 🔭 I'm currently a talent at Zone01Oujda.</p>
 
 ###
 
